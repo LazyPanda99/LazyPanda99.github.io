@@ -3,3 +3,14 @@ body{
   font-family: Helvetica;
   margin: 10%, 10%;
 }
+
+
+
+aside {
+    width: 30%;
+    border-left: 1px solid;
+    float: right;
+    font-style: Georgia, serif;
+    padding-left: 1rem;
+    margin-left: 2rem;
+}

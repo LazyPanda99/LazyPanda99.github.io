@@ -9,7 +9,7 @@ aside {
     width: 30%;
     border-left: 1px solid;
     float: right;
-    font-style: Georgia, serif;
+    font-style: Helvetica;
     padding-left: 1rem;
     margin-left: 2rem;
 }
@@ -17,5 +17,5 @@ aside {
 
 
 .skills{
-  boarder-bottom: solid;
+  boarder-bottom: 1px solid;
 }

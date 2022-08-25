@@ -5,7 +5,6 @@ body {
 }
 
 
-
 aside {
     width: 30%;
     border-left: 1px solid;
@@ -13,4 +12,10 @@ aside {
     font-style: Georgia, serif;
     padding-left: 1rem;
     margin-left: 2rem;
+}
+
+
+
+.skills{
+  boarder-bottom;
 }

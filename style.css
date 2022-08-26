@@ -26,6 +26,8 @@ aside {
    float:right;
    width:200px;
    height:200px;
+   background-image: url(images/massage.jpg);
+   background-size: 100%;
 }
 
 
